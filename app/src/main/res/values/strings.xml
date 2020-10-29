@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Vistas_y_GruposDeVistas</string>
+    <string name="cities_prompt">Choose a country</string>
+
+    <string-array name="country_arrays">
+        <item>Bogota</item>
+        <item>Fusagasuga</item>
+        <item>Cali</item>
+        <item>Medellin</item>
+        <item>Cucuta</item>
+        <item>Risaralda</item>
+        <item>Valledupar</item>
+        <item>Villavicencio</item>
+    </string-array>
+</resources>
